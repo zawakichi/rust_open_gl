@@ -1,1 +1,9 @@
 /target
+
+build.rs
+
+/gnu-mingw
+
+/msvc
+
+SDL2.dll
